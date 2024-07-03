@@ -1,0 +1,16 @@
+project:
+  name: MyFirstCIProject
+  version: 1.0.0
+  description: A simple project to learn CI/CD
+  
+author:
+  name: vedad
+  email: vedadyaghini@gmail.com
+
+settings:
+  debug_mode: false
+  max_retries: 3
+  features:
+    - logging
+    - error_handling
+    - data_persistence
